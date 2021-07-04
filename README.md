@@ -1,15 +1,20 @@
-# ✭ BMBF VERSION PREMIUM
+# ✭ BMBF PREMIUM
 
 ## ⇨  Login Methode
 [✯] Login Token  
 [✯] Login Cookie
 [✯] Token/Cookie Tahan CheckPoint
+
 ## ⇨  Crack
 
 [✯] Crack Default/Manual
+
 [✯] Crack From Friend, Public, Followers, Likers
+
 [✯] Crack By Email, Phone Number
+
 [✯] Crack 4 Method + TTL
+
 [✯] Crack Default 7 Password  
 
 ## ⇨  Install Script Termux
