@@ -45,4 +45,4 @@ $ python prem.py
 </p>
 
 ## ✭ Report Bug
-[![Instagram](https://img.shields.io/badge/instagram-Klik-Di-Sini-Untuk-Report-Bug-Pada-Script-green?style=for-the-badge&logo=Instagram)](https://www.instagram.con/ngemry7)
+[![Instagram](https://img.shields.io/badge/Instagram-Report-green?style=for-the-badge&logo=Instagram)](https://www.instagram.con/ngemry7)
