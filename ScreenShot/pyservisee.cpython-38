@@ -206,6 +206,17 @@ def wea():
     input(p+" [BACK]")
     kontak() 
 
+
+### Tutor Token Efbi ####
+def yotub():
+    os.system("clear")
+    banner()
+    input(p+"\n ["+k+"•"+m+"•"+p+"] Open Youtube? ")
+    jalan(p+" ["+k+"•"+m+"•"+p+"] Open Youtube...")
+    os.system("xdg-open https://youtu.be/fbD0ArCzJ0k")
+    input(p+" [BACK]")
+    logs()   
+
 ### LOGIN METHODE ###
 
 def logs():
@@ -214,7 +225,8 @@ def logs():
   print ("")
   print((p+" ["+o+"1"+p+"] Login Token"))
   print((p+" ["+o+"2"+p+"] Login Cookies"))
-  print((p+" ["+o+"3"+p+"] Contact Author"))
+  print((p+" ["+o+"3"+p+"] Liat Tutorial Cara Ambil Token"))
+  print((p+" ["+o+"4"+p+"] Contact Author"))
   print((p+" ["+o+"0"+p+"] Exit\n"))
   sek=input(p+" ["+k+"•"+m+"•"+p+"] Choose: ")
   if sek=="":
@@ -225,6 +237,8 @@ def logs():
   elif sek=="2":
     gen()
   elif sek=="3":
+    yotub()
+  elif sek=="4":
     kontak()
   elif sek=="0":
     exit()
