@@ -35,7 +35,9 @@ $ pip install requests
 $ pip install mechanize  
 
 $ pip install futures  
- 
+
+$ rm -rf BMBF
+
 $ git clone https://github.com/BiiDev/BMBF
 
 $ cd BMBF
