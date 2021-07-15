@@ -190,7 +190,7 @@ def logs():
   if sek=="":
     print((p+" ["+k+"•"+m+"•"+p+"] Fill In The Correct"))
     logs()
-  elif sek=="1" or sek=="01:
+  elif sek=="1" or sek=="01":
     log_token()
   elif sek=="2" or sek=="02":
     gen()
