@@ -14,9 +14,9 @@
 
 [✯] Crack By Email, Phone Number
 
-[✯] Crack 4 Method + TTL
+[✯] Crack 5 Method + TTL
 
-[✯] Crack Default 7 Password  
+[✯] Crack Default 9 Password  
 
 ## ⇨  Install Script Termux
 
