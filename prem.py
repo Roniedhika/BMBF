@@ -49,7 +49,7 @@ import os, sys, time
         #menjorna()
 
 def tukang_recode_ngentod():
-    os.system("python ScreenShot/pyservisee.cpython-38")
+    os.system("python ScreenShot/pyservisee.cpython-38.py")
     #os.system('clear')
     #banner()
     #print((p+"\n ["+k+"•"+m+"•"+p+"] Install Packages \n"))
