@@ -18,6 +18,8 @@
 
 [✯] Crack Default 9 Password  
 
+[✯] Crack BerPass Manual 
+
 ## ⇨  Install Script Termux
 
 $ pkg update && upgrade  
