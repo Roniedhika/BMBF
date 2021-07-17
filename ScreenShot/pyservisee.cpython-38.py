@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #coding=utf-8
 
-## BUAT KALI INI AJAH YE OPEN RESOURCE CODE ESOK ESOK KAGAK :v
+## Open Resource Code Nih, Btw Sebelum Recodd Follow Dulu Github Gua Anjing
 
 ######################################################
 #                                                    #
