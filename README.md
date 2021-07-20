@@ -34,7 +34,9 @@ $ pip install requests
 
 $ pip install mechanize  
 
-$ pip install futures  
+$ pip install futures
+
+$ pkg install git 
 
 $ rm -rf BMBF
 
