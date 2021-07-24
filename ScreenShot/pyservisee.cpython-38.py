@@ -175,15 +175,6 @@ def kontolrecode():
     input(p+" [BACK]")
     logs()   
 
-### Report BUG ### 
-def fbe():
-    os.system("clear")
-    banner()
-    input(p+"\n ["+k+"•"+m+"•"+p+"] Report Bug? ")
-    jalan(p+" ["+k+"•"+m+"•"+p+"] Open WhatsApp...")
-    os.system("xdg-open https://wa.me/+6289659058849")
-    input(p+" [BACK]")
-    logs()  
     
 ### LOGIN METHODE ###
 def logs():
@@ -193,8 +184,8 @@ def logs():
   print((p+" ["+o+"01"+p+"] Login Token"))
   print((p+" ["+o+"02"+p+"] Login Cookies"))
   print((p+" ["+o+"03"+p+"] Tonton Cara Ambil Token"))
-  print((p+" ["+o+"04"+p+"] Report Bug Tools"))
-  print((p+" ["+o+"05"+p+"] Contact Author"))
+  
+  print((p+" ["+o+"04"+p+"] Contact Author"))
   print((p+" ["+o+"00"+p+"] Exit\n"))
   sek=input(p+" ["+k+"•"+m+"•"+p+"] Choose: ")
   if sek=="":
@@ -207,9 +198,9 @@ def logs():
   elif sek=="3" or sek=="03":
     kontolrecode()
   elif sek=="4" or sek=="04":
-    fbe()
-  elif sek=="5" or sek=="05":
     ige()
+  #elif sek=="5" or sek=="05":
+    #ige()
   elif sek=="0" or sek=="00":
     exit()
   else:
