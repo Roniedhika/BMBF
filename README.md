@@ -46,6 +46,10 @@ $ cd BMBF
 
 $ python prem.py  
 
+## ✭ Warning ✭ ##
+Matikan Data Dan Mode Pesawat Sebelum Crack!
+Tidak Support Wifi! 
+
 ## ✭ ScreenShot
  <img src="https://github.com/BiiDev/BMBF/blob/main/ScreenShot/20210705_022443.png" width="640" title="ScreenShot" alt="Menu">
 </p>
