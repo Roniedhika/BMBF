@@ -50,7 +50,7 @@ $ python prem.py
 ```
 Matikan Data Dan Mode Pesawat Sebelum Crack!
 
-Tidak Support Wifi! 
+Jika Pake Wifi Tidak Ada Hasil Beralih Ke Data! 
 ```
 
 ## ✭ ScreenShot
